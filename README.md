@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Ada MECEFFEUK, currently a fresh Master degree graduate student in Artificial Intelligence from [University of Science and Technology Houari Boumediene - USTHB](https://www.usthb.dz/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Ada MECEFFEUK, I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-adameceffeuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ada-meceffeuk/)](https://www.linkedin.com/in/ada-meceffeuk/)
 [![Instagram Badge](https://img.shields.io/badge/-the_averroist_one-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/the_averroist_one/)](https://www.instagram.com/the_averroist_one/)
