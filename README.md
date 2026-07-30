@@ -1,30 +1,26 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi there, I'm Ada Meceffeuk! 👋
 
-I am Ada MECEFFEUK, I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a Software Engineer and former Team Lead with 4 years of experience building scalable backend systems using Python, FastAPI, and PostgreSQL[cite: 1]. I specialize in developing platforms for logistics and e-commerce, with deep experience in cloud deployment and API design[cite: 1]. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-adameceffeuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ada-meceffeuk/)](https://www.linkedin.com/in/ada-meceffeuk/)
-[![Instagram Badge](https://img.shields.io/badge/-the_averroist_one-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/the_averroist_one/)](https://www.instagram.com/the_averroist_one/)
-[![Gmail Badge](https://img.shields.io/badge/-addavigner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:addavigner@gmail.com)](addavigner@gmail.com)
+## 🚀 About Me
+* **Current Status:** I am ready to start work immediately[cite: 1].
+* **Experience:** I most recently served as a Software Engineer Team Lead at Maystro Delivery in Algiers (Mar 2024 - Jun 2026)[cite: 1]. During this time, I managed agile sprints, mentored junior engineers, and overhauled inventory management architectures to support item-level traceability[cite: 1].
+* **Education:** I hold a Master in Intelligent Computer Systems and a Bachelor in Information Systems and Software Engineering from USTHB[cite: 1].
+* **Languages:** Arabic (Native proficiency), English (IELTS C1), French (TCF B2), and German (A2)[cite: 1].
+* **Interests:** Mathematics, Philosophy, Logic, History, Physics, Football, Swimming, and Gaming[cite: 1].
 
-## ⚡ Technologies
+## 💻 Tech Stack
+* **Languages:** Python, JavaScript, TypeScript, PHP, Java, C++, SQL[cite: 1].
+* **Backend & APIs:** FastAPI, Django, Django REST Framework, Node.js, Express, SQLAlchemy, REST, OpenAPI/Swagger[cite: 1].
+* **Databases:** PostgreSQL, MySQL, SQLite, PL/SQL, NoSQL, Redis[cite: 1].
+* **Cloud & DevOps:** Google Cloud, Cloud Run, Cloud SQL, Docker, Kubernetes, Linux, CI/CD, GitHub Actions[cite: 1].
+* **Data & AI:** PyTorch, Hugging Face, NLP, Pandas, NumPy, scikit-learn[cite: 1].
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Python](https://img.shields.io/badge/-Django-orange?style=flat-square&logo=Django)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Java](https://img.shields.io/badge/-JavaFX-E34A86?style=flat-square&logo=javafx)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## 🏆 Key Achievements
+* Recognized as Employee of the Year in both 2023 and 2024 at Maystro Delivery[cite: 1].
+* Optimized PostgreSQL queries and indexing strategies, which reduced database load and lowered cloud infrastructure costs by 15%[cite: 1].
+* Designed and implemented a multi-warehouse order allocation engine capable of routing over 50k weekly orders[cite: 1].
+* Developed and maintained scalable FastAPI backend services powering MyMaystro, serving over 20K users[cite: 1].
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=averroes96&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averroes96&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=averroes96.averroes96)
+## 📫 Connect with me
+* **Email:** meceffeukada@gmail.com[cite: 1]
