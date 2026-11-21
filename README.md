@@ -1,6 +1,9 @@
 # Hi there, I'm Ada Meceffeuk! 👋
 
-I am a Software Engineer and former Team Lead with 4 years of experience building scalable backend systems using Python, FastAPI, and PostgreSQL. I specialize in developing platforms for logistics and e-commerce, with deep experience in cloud deployment and API design.
+Backend engineer with 4+ years building production services in Python (FastAPI, Django), PostgreSQL, and Redis for logistics
+and mobility platforms. Takes features from schema and API design through to production, including a multi-warehouse
+allocation engine routing 50k+ weekly orders. Led a backend team at Maystro Delivery and now works as Contractor on Yassir’s Mobility
+Core squad (Location, Dispatch, Maps & Routing).
 
 ## 🚀 About Me
 * **Current Status:** Open to interesting opportunities and projects.
@@ -16,14 +19,12 @@ I am a Software Engineer and former Team Lead with 4 years of experience buildin
 * **System Architecture:** Overhauled the inventory management architecture to support item-level traceability, order association, and pick/pack workflows, which significantly improved warehouse process efficiency.
 * **Backend Development:** Built and maintained scalable FastAPI backend services for the *MyMaystro* customer application serving over 20,000 users, utilizing Redis for caching and background processing.
 * **DevOps & Optimization:** Optimized PostgreSQL queries and indexing strategies. Integrated code-quality gates (Flakes, Black) into the CI/CD pipeline.
-* **Award:** Recognized as Employee of the Year (2024).
 
 ### Backend Developer | Maystro Delivery 
 *Mar 2022 - Feb 2024 | Algiers, Algeria*
 * **Order Routing:** Designed and implemented a multi-warehouse order allocation engine capable of routing thousand of orders weekly, drastically reducing execution time for key operational workflows.
 * **Dynamic Pricing:** Implemented a flexible delivery pricing system across stores and delivery zones to improve pricing fairness and increase satisfaction for loyal partner stores.
 * **Loyalty Program:** Architected the backend for the platform's loyalty program from scratch, building the database schema, APIs, and automated reward logic to boost customer engagement and retention.
-* **Award:** Recognized as Employee of the Year (2023).
 
 ## 💻 Tech Stack
 * **Languages:** Python, JavaScript, TypeScript, PHP, Java, C++, SQL
