@@ -6,7 +6,7 @@ allocation engine routing 50k+ weekly orders. Led a backend team at Maystro Deli
 Core squad (Location, Dispatch, Maps & Routing).
 
 ## 🚀 About Me
-* **Current Status:** Open to interesting opportunities and projects.
+* **Current Status:** Contractor.
 * **Education:** Master in Intelligent Computer Systems & Bachelor in Information Systems and Software Engineering from USTHB.
 * **Languages:** Arabic (Native), English (C1), French (B2), and German (A2).
 * **Interests:** Mathematics, Philosophy, Logic, History, Physics, Football, Swimming, and Gaming.
